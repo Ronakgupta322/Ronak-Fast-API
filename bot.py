@@ -11,9 +11,9 @@ import database
 # CONFIG
 # ==============================
 
-API_ID = int(os.getenv("API_ID", "YOUR_API_ID"))
-API_HASH = os.getenv("API_HASH", "YOUR_API_HASH")
-BOT_TOKEN = os.getenv("BOT_TOKEN", "YOUR_BOT_TOKEN")
+API_ID = int(os.getenv("API_ID", "36735558"))
+API_HASH = os.getenv("API_HASH", "fcd0e09634ee9e526a8da20e6d295cad")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8965216924:AAFhHrLtihYIBjFVIBtjggkwnGmYuYeSLg0")
 
 app = Client(
     "RonakKeyBot",
