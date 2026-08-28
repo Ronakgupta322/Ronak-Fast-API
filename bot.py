@@ -4,9 +4,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 import database
 
 # अपनी डिटेल्स यहाँ डालें
-API_ID = 1234567 
-API_HASH = "YOUR_API_HASH"
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+API_ID = 36735558 
+API_HASH = "fcd0e09634ee9e526a8da20e6d295cad"
+BOT_TOKEN = "8965216924:AAFhHrLtihYIBjFVIBtjggkwnGmYuYeSLg0"
 
 app = Client("RonakKeyBot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
